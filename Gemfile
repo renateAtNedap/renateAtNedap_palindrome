@@ -4,4 +4,3 @@ source "https://rubygems.org"
 gemspec
 
 gem 'minitest-reporters', '1.2.0'
-
