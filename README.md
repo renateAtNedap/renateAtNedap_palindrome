@@ -1,8 +1,6 @@
-# RenateAtNedapPalindrome
+# Palindrome Detector
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/renateAtNedap_palindrome`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+renateAtNedap_palindrome is a sample Ruby gem created in [Learn Enough Ruby to Be Dangerous](https://www.learnenough.com/ruby-tutorial/).
 
 ## Installation
 
@@ -20,9 +18,6 @@ Or install it yourself as:
 
     $ gem install renateAtNedap_palindrome
 
-## Usage
-
-TODO: Write usage instructions here
 
 ## Development
 
